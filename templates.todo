@@ -1,0 +1,7 @@
+Keycloak:
+    ☐ check keycloak's user state in middleware -> ini udah di yg filament
+    ☐ implement custom guard
+
+Application Module & Permission:
+    ☐ Add modules base on SSO API
+    ☐ Set permission for that module base on API
